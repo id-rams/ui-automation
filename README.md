@@ -1,2 +1,2 @@
 # ui-automation
-Wiki
+[Wiki](https://github.com/idRomanUdka/ui-automation/wiki/TestNg-example)
